@@ -64,9 +64,11 @@ streamlit run app.py
 
 ---
 
-## 🖼 Screenshots / Images
+
+### Main Dashboard
 
 ![Dashboard Screenshot](images/dashboard.png)
+
 
 ---
 
