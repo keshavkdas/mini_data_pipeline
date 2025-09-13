@@ -1,0 +1,5 @@
+date,product,region,sales,quantity
+2025-09-01,Widget A,North,120,10
+2025-09-01,Widget B,South,90,7
+2025-09-02,Widget A,North,130,11
+2025-09-02,Widget B,South,95,8
