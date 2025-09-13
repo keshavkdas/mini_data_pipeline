@@ -121,7 +121,3 @@ my_data_pipeline/
 * Integrate with other databases or APIs for a larger pipeline
 * Deploy the dashboard **online** for team access
 
-```
-
-This is **fully copy-paste ready** — just save it as `README.md` in your repo.
-```
